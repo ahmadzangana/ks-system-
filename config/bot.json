@@ -1,16 +1,16 @@
 {
     "dev": {
-        "owner_id": [""],
-        "support": "",
+        "owner_id": ["639145405476503552"],
+        "support": "https://discord.gg/NT9wruv8Rd",
         "website": ""
     },
     "bot": {
         "connections": {
-            "mongoose": "",
-            "yt_api": ""
+            "mongoose": "mongodb+srv://zangana:ahmaddya1#@cluster0.u8fpz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "yt_api": "AIzaSyCSR94-KMYPxCoORPvUnewYeWgpu4h0Fl4"
         },
         "setting": {
-            "main_prefix": ""
+            "main_prefix": "+"
         }
     }
 }
